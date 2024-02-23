@@ -1,0 +1,6 @@
+parallel\FailedRun.class
+testRunner\Runner.class
+parallel\LoginSteps.class
+parallel\Hooks.class
+parallel\AdminSteps.class
+parallel\ParallelRun.class
